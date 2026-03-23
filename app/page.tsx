@@ -26,6 +26,9 @@ export default function Home() {
         </ol>
 
         <div>
+          <p className="text-sm mb-2 font-[family-name:var(--font-geist-mono)]">
+            Curated by <span className="font-semibold">Marcin Szoska</span>, AI Researcher
+          </p>
           <h2 className="text-base font-semibold mb-2 font-[family-name:var(--font-geist-mono)]">
             Advantages of Claude Code
           </h2>
